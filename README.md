@@ -18,3 +18,11 @@ inetRouter = 192.168.255.0/30
 centralRouter
 
 ![image](https://github.com/user-attachments/assets/eae2da51-fc9a-4848-a644-e2eb6bf31537)
+
+
+192.168.255.2/30
+#### Центральный маршрутизатор
+office1Server
+
+![image](https://github.com/user-attachments/assets/65a9a388-e07c-473d-a70f-7c3eac3b6418)
+
